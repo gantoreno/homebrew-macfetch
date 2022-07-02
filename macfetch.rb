@@ -8,5 +8,9 @@ class Macfetch < Formula
   def install
     bin.install "macfetch"
   end
+
+  test do
+    system "#{bin}/macfetch", "--version"
+  end
 end
 
