@@ -1,8 +1,8 @@
 class Macfetch < Formula
   desc "🍎 A macOS Neofetch alternative written in C++"
   homepage "https://github.com/gantoreno/macfetch"
-  url "https://github.com/gantoreno/macfetch/releases/download/v1.1.0/macfetch-v1.1.0.tar.gz"
-  sha256 "7cb61fa2020cd4c321c3b3886abba692de8b0e51f11abfcb1f063a09eeb7c04e"
+  url "https://github.com/gantoreno/macfetch/releases/download/v1.1.0/macfetch-v1.1.1.tar.gz"
+  sha256 "31c6ea28d2eb637562909114ff27e9268ce7124c0d1eb6e6234152fd8d32362f"
   license "MIT"
 
   def install
