@@ -1,8 +1,8 @@
 class Macfetch < Formula
   desc "A macOS Neofetch alternative written in Rust"
   homepage "https://github.com/gantoreno/macfetch"
-  url "https://github.com/gantoreno/macfetch/releases/download/v2.3.0/macfetch-v2.3.0.tar.gz"
-  sha256 "057e06403bf6f5561b7e346ef9648f86fe2da1bf7a21b9d9b0e30c3a5ee74965"
+  url "https://github.com/gantoreno/macfetch/releases/download/v2.3.1/macfetch-v2.3.1.tar.gz"
+  sha256 "6395ed048e7da4a06f60e510f72337b65ed9d66a12465f8e55715dd9cf37dabc"
   license "MIT"
 
   def install
